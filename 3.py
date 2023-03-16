@@ -1,5 +1,5 @@
 alphabet = "abcdefghijklmnopqrstuvwxyz"
-key = "fcpevqkzgmtrayonujdlwhbxsi"
+key = "poiuytrewqlkjhgfdsamnbvcxz"
 text = "aku keren"
 
 result = ""
